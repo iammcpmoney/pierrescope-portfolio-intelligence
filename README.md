@@ -4,7 +4,7 @@
 
 PierreScope is a real Portfolio Intelligence Tool that connects delivery, team capacity, roadmaps, revenue, and actuals. This package is a carefully limited public showcase: the interface and product story are real; sample records and figures are synthetic.
 
-**Live showcase:** Add the published showcase URL here.  
+**Live showcase:** https://portfolio.michelcpierre.com  
 **GitHub repository:** pierrescope-portfolio-intelligence
 
 ![PierreScope one-page overview](assets/pierrescope-one-pager.png)
